@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project for Git/fiit website/CLionProjects/cviko2/main.c
+windows.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+
